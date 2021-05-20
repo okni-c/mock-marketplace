@@ -6,6 +6,9 @@ Open Source Marketplace
 ## Table Contents
 //
 
+## Libraries
+* Handlebars
+
 ## Features
 * Accounts - (Users)
 * CRUD Application for Account postings
@@ -16,3 +19,15 @@ Open Source Marketplace
 ## Pages
 * Marketplace
 * Post Page
+
+## Languages
+* HTML
+* CSS
+* JavaScript
+* NodeJs
+* ExpressJs
+* mySQL
+
+## Contributors
+* okni-c
+* msebersbergerjr
