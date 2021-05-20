@@ -8,6 +8,8 @@ Open Source Marketplace
 
 ## Libraries
 * Handlebars
+* Express
+* Morgan
 
 ## Features
 * Accounts - (Users)
@@ -25,7 +27,6 @@ Open Source Marketplace
 * CSS
 * JavaScript
 * NodeJs
-* ExpressJs
 * mySQL
 
 ## Contributors
