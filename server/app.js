@@ -42,9 +42,13 @@ const database = new Prohairesis(env.CLEARDB_DATABASE_URL);
 //     NOW()
 // )
 
+// DELETE FROM postings WHERE id=44
+
+// UPDATE postings SET Description = 'This is my 1st Posting!' WHERE ID = 54
+
 database
     .query(`
-        SELECT * FROM postings
+        SELECT * FROM postings WHERE User=4
     `)
     .then((res) => {
         console.log(res);
